@@ -8,7 +8,7 @@
  
      - Instances: [Instances](./instances/)
 
- 2- A Mixed-Integer Linear Programming Model for Repeaters and Routers Location-Allocation Problem in Open-Pit Mines (ICEIS 2025)
+  2- A Mixed-Integer Linear Programming Model for Repeaters and Routers Location-Allocation Problem in Open-Pit Mines (ICEIS 2025)
     
     - Authors: Jéssica C. T. Costa (UFOP), Arthur F. E. B. Pereira (Vale), Hugor C. S. Milanês (Vale), Tatianna A. P. Beneteli (ITV), and Luciano P. Cota (ITV) 
 
